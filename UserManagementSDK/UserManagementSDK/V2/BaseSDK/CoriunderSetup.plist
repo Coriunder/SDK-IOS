@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appToken</key>
+	<string>3fb5b551-6ba1-4e6a-b68f-8682072b0260</string>
+	<key>serviceURL</key>
+	<string>http://stagewebservices.netpay-intl.com/v2/</string>
+	<key>enableLogs</key>
+	<true/>
+	<key>salt</key>
+	<string>6Yn5gQ4V</string>
+</dict>
+</plist>

@@ -1,0 +1,35 @@
+/* 
+  CoriunderStrings.strings
+  Coriunder
+
+  Copyright © 2016 Coriunder. All rights reserved.
+*/
+"ErrorCreatingRequest" = "An error occurred while creating request";
+"EmptyResponseError" = "Received empty response";
+"SessionNotStarted" = "Received empty credentials token. Session not started";
+"SessionStopped" = "Session stopped";
+
+"KeychainNoItem" = "No matching item found in the keychain";
+"KeychainErrorDelete" = "Problem deleting current dictionary";
+"KeychainErrorUpdate" = "Couldn't update the Keychain Item";
+"KeychainErrorAdd" = "Couldn't add the Keychain Item";
+
+"CartEmptyProduct" = "Attempt to add an empty product";
+"CartSmallAmount" = "Amount is too small. There is nothing to add.";
+"CartWrongMerchantCart" = "Attempt to add product to the cart of another merchant";
+"CartWrongStock" = "Attempt to send wrong stock";
+"CartWrongQuantity" = "Wrong product quantity. Product quantity should be divisible by step quantity (%1$s items for this product)";
+"CartMaxQuantityExceeded" = "Maximum quantity for the product %1$s is %2$s. You already have %3$s such products in the cart. Can't add %4$s more such products. Maximum quantity to add is %5$s";
+"CartAvailableQuantityExceeded" = "Available quantity for the product %1$s is %2$s. You already have %3$s such products in the cart. Can't add %4$s more such products. Available quantity to add is %5$s";
+"CartAvailableStockQuantityExceeded" = "Available quantity for this stock of the product %1$s is %2$s. You already have %3$s such products in the cart. Can't add %4$s more such products. Available quantity to add is %5$s";
+"CartSuccess" = "Success";
+
+"BalanceNoItem" = "No such item";
+"TransactionsNoItem" = "Transaction wasn't found or something went wrong";
+"PmsErrorNoItem" = "Something went wrong or there is no such payment method";
+"CustomerErrorRegister" = "Profile was saved, but local info wasn't updated. Call getCustomer to force updating local info";
+"CustomerErrorNoItem" = "Something went wrong or there is no such address";
+"ShopErrorNoCart" = "Something went wrong or there is no such cart";
+"ShopErrorNoProduct" = "Something went wrong or there is no such product";
+"ShopErrorNoShop" = "Something went wrong or there is no such shop";
+"ShopErrorNoMerchant" = "Something went wrong or there is no such merchant";
